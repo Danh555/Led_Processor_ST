@@ -980,6 +980,7 @@ public:
 
 private:
     static const uint8_t MAX_STATUS_FAILS_BEFORE_RESCAN = 5;
+    static const uint8_t MAX_STATUS_FAILS_AT_9600_BEFORE_RESCAN = 2;
     static const uint32_t DEFAULT_EX_BAUD = 115200;
 
     HardwareSerial &serialData;
@@ -1173,6 +1174,12 @@ private:
         return true;
     }
 
+    uint8_t getMaxStatusFailsBeforeRescan() const
+    {
+        return (currentBaudRate == 9600) ? MAX_STATUS_FAILS_AT_9600_BEFORE_RESCAN
+                                         : MAX_STATUS_FAILS_BEFORE_RESCAN;
+    }
+
     void updateCommunicationHealth(bool statusOk, bool licenseExpired)
     {
         if (statusOk)
@@ -1184,12 +1191,13 @@ private:
         }
 
         consecutiveStatusFailures++;
+        uint8_t maxStatusFailsBeforeRescan = getMaxStatusFailsBeforeRescan();
         Serial.printf("[SERIAL1] Mat phan hoi EX %u/%u o baud=%lu\r\n",
                       consecutiveStatusFailures,
-                      MAX_STATUS_FAILS_BEFORE_RESCAN,
+                      maxStatusFailsBeforeRescan,
                       (unsigned long)currentBaudRate);
 
-        if (consecutiveStatusFailures >= MAX_STATUS_FAILS_BEFORE_RESCAN)
+        if (consecutiveStatusFailures >= maxStatusFailsBeforeRescan)
         {
             consecutiveStatusFailures = 0;
             hasRecentValidPacket = false;
