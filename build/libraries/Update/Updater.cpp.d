@@ -1,7 +1,6 @@
-D:\LedProcesser\LedPr_v2\LedPr_v2\build\sketch\src\app_license.cpp.o: \
- D:\LedProcesser\LedPr_v2\LedPr_v2\build\sketch\src\app_license.cpp \
- D:\LedProcesser\LedPr_v2\LedPr_v2/include/app_license.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Preferences\src/Preferences.h \
+D:\LedProcesser\LedPr_v2\LedPr_v2\build\libraries\Update\Updater.cpp.o: \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Update\src\Updater.cpp \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Update\src\Update.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/Arduino.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/esp_arduino_version.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/freertos/FreeRTOS-Kernel/include/freertos/FreeRTOS.h \
@@ -147,68 +146,21 @@ D:\LedProcesser\LedPr_v2\LedPr_v2\build\sketch\src\app_license.cpp.o: \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/freertos_stats.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/io_pin_remap.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/Arduino.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WebServer\src/WebServer.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\FS\src/FS.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Network\src/Network.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Network\src/NetworkInterface.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_netif/include/esp_netif_types.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_netif/include/esp_netif_ip_addr.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/Printable.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Network\src/NetworkEvents.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_eth/include/esp_eth_driver.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_eth/include/esp_eth_com.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/hal/include/hal/eth_types.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_eth/include/esp_eth_spec.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_eth/include/esp_eth_mac_spi.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_eth/include/esp_eth_mac.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_driver_spi/include/driver/spi_master.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/hal/include/hal/spi_types.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_driver_spi/include/driver/spi_common.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_system/include/esp_ipc.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_eth/include/esp_eth_phy.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_wifi/include/esp_wifi_types.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_wifi/include/esp_wifi_types_generic.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_hw_support/include/esp_interface.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_wifi/include/local/esp_wifi_types_native.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_wifi/include/esp_wifi_types_generic.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_wifi/include/esp_smartconfig.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/espressif__network_provisioning/include/network_provisioning/network_config.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Network\src/NetworkManager.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/MD5Builder.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/WString.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Network\src/NetworkClient.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/Client.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Network\src/NetworkServer.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/Server.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Network\src/NetworkUdp.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/Udp.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/cbuf.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_ringbuf/include/freertos/ringbuf.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WebServer\src/HTTP_Method.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/http_parser/http_parser.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WebServer\src/Uri.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WebServer\src/middleware/Middleware.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WebServer\src/detail/RequestHandler.h \
- C:\Users\Tuyet\ Nhung-RD\Documents\Arduino\libraries\WebSockets\src/WebSocketsServer.h \
- C:\Users\Tuyet\ Nhung-RD\Documents\Arduino\libraries\WebSockets\src/WebSockets.h \
- C:\Users\Tuyet\ Nhung-RD\Documents\Arduino\libraries\WebSockets\src/WebSocketsVersion.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WiFi\src/WiFi.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/Print.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WiFi\src/WiFiType.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WiFi\src/WiFiSTA.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WiFi\src/WiFiGeneric.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/espressif__network_provisioning/include/network_provisioning/manager.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/protocomm/include/common/protocomm.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/protocomm/include/security/protocomm_security.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WiFi\src/WiFiAP.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WiFi\src/WiFiScan.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WiFi\src/WiFiClient.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WiFi\src/WiFiServer.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\WiFi\src/WiFiUdp.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Network\src/NetworkUdp.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\NetworkClientSecure\src/WiFiClientSecure.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\NetworkClientSecure\src/NetworkClientSecure.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\NetworkClientSecure\src/ssl_client.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/platform.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_rom/include/esp_rom_md5.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/HashBuilder.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/HEXBuilder.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/spi_flash/include/spi_flash_mmap.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/spi_flash/include/esp_spi_flash_counters.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/app_update/include/esp_ota_ops.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_app_format/include/esp_app_desc.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_bootloader_format/include/esp_bootloader_desc.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/bootloader_support/include/esp_flash_partitions.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_common/include/esp_types.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/bootloader_support/include/esp_image_format.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/bootloader_support/include/esp_app_format.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/aes.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/private_access.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/build_info.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/mbedtls/esp_config.h \
@@ -226,83 +178,7 @@ D:\LedProcesser\LedPr_v2\LedPr_v2\build\sketch\src\app_license.cpp.o: \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/config_adjust_x509.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/config_adjust_ssl.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/check_config.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/platform_time.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/net_sockets.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/ssl.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/platform_util.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/mbedtls/bignum.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/bignum.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/mbedtls/ecp.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/ecp.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/ssl_ciphersuites.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/pk.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/md.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/rsa.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_platform.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/build_info.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_types.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_values.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_sizes.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_struct.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_driver_contexts_primitives.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_driver_common.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_sizes.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_builtin_primitives.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/md5.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/md5_alt.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/md/esp_md.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_rom/include/esp_rom_md5.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/ripemd160.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/sha1.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/sha1_alt.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/hal/include/hal/sha_types.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_rom/esp32c3/include/esp32c3/rom/sha.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_rom/esp32c3/include/esp32c3/rom/ets_sys.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/sha256.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/sha256_alt.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/sha512.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/sha3.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/cipher.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_driver_contexts_composites.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_builtin_composites.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/cmac.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/mbedtls/gcm.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/gcm.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/gcm_alt.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/aes/esp_aes_gcm.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/aes/esp_aes.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/esp_common/include/esp_types.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/hal/include/hal/aes_types.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/ccm.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/chachapoly.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/poly1305.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/chacha20.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/ecjpake.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_driver_contexts_key_derivation.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_builtin_key_derivation.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_extra.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/psa/crypto_compat.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/x509_crt.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/x509.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/asn1.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/x509_crl.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/ecdh.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/debug.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/entropy.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/md.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/ctr_drbg.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/aes.h \
  C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/aes_alt.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/entropy.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/mbedtls/include/mbedtls/error.h \
- D:\LedProcesser\LedPr_v2\LedPr_v2/include/config.h \
- D:\LedProcesser\LedPr_v2\LedPr_v2/include/app_license.h \
- C:\Users\Tuyet\ Nhung-RD\Documents\Arduino\libraries\ArduinoJson\src/ArduinoJson.h \
- C:\Users\Tuyet\ Nhung-RD\Documents\Arduino\libraries\ArduinoJson\src/ArduinoJson.hpp \
- C:\Users\Tuyet\ Nhung-RD\Documents\Arduino\libraries\ArduinoJson\src/ArduinoJson/Configuration.hpp \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\libraries\Update\src/Update.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/MD5Builder.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/HashBuilder.h \
- C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.1\cores\esp32/HEXBuilder.h
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/mbedtls/port/include/aes/esp_aes.h \
+ C:\Users\Tuyet\ Nhung-RD\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-858a988d-v1\esp32c3/include/hal/include/hal/aes_types.h

@@ -14,7 +14,7 @@ void loop();
 void setup()
 {
     Serial.begin(115200);
-    ledProcessor.begin();
+    ledProcessor.begin();   
     licenseManager.begin();
 }
 

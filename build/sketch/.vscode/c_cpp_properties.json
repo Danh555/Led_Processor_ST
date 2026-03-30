@@ -17,7 +17,8 @@
         "C:\\Users\\Tuyet Nhung-RD\\Documents\\Arduino\\libraries\\WebSockets\\src/**",
         "C:\\Users\\Tuyet Nhung-RD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.1\\libraries\\WiFi\\src/**",
         "C:\\Users\\Tuyet Nhung-RD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.1\\libraries\\NetworkClientSecure\\src/**",
-        "C:\\Users\\Tuyet Nhung-RD\\Documents\\Arduino\\libraries\\ArduinoJson\\src/**"
+        "C:\\Users\\Tuyet Nhung-RD\\Documents\\Arduino\\libraries\\ArduinoJson\\src/**",
+        "C:\\Users\\Tuyet Nhung-RD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.1\\libraries\\Update\\src/**"
       ],
       "forcedInclude": [
         "C:\\Users\\Tuyet Nhung-RD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.1\\cores\\esp32\\Arduino.h"
@@ -60,6 +61,7 @@
         "-IC:\\Users\\Tuyet Nhung-RD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.1\\libraries\\WiFi\\src",
         "-IC:\\Users\\Tuyet Nhung-RD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.1\\libraries\\NetworkClientSecure\\src",
         "-IC:\\Users\\Tuyet Nhung-RD\\Documents\\Arduino\\libraries\\ArduinoJson\\src",
+        "-IC:\\Users\\Tuyet Nhung-RD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.1\\libraries\\Update\\src",
         "@D:\\LedProcesser\\LedPr_v2\\LedPr_v2\\build/build_opt.h",
         "@D:\\LedProcesser\\LedPr_v2\\LedPr_v2\\build/file_opts",
         "D:\\LedProcesser\\LedPr_v2\\LedPr_v2\\build\\sketch\\LedPr_v2.ino.cpp",

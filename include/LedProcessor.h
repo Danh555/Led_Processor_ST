@@ -804,6 +804,8 @@ static inline bool setBrightnessContrast(HardwareSerial &serial, bool enableDebu
     return sendContrastAndWaitAck(serial, 0, enableDebug);
 }
 
+//---------------------------------------------------
+
 static inline bool defineSource(HardwareSerial &serial)
 {
     static byte buffer[16];
@@ -855,6 +857,8 @@ static inline bool defineSource(HardwareSerial &serial)
     return true;
 }
 
+//---------------------------------------
+
 #endif // DISPLAY_CONTROLLER_H
 
 class LedProcessor
@@ -900,12 +904,12 @@ public:
         {
             if (licenseExpired)
             {
-                Serial.println("[LICENSE] Chuyen trang thai -> HET HAN, gui lenh ep brightness");
+                Serial.println("[LICENSE] Chuyen trang thai -> HET HAN, gui lenh brightness");
                 forceBrightnessWithBaudFallback();
             }
             else
             {
-                Serial.println("[LICENSE] Chuyen trang thai -> CON HAN, khong gui lenh xuong Serial1");
+                Serial.println("[LICENSE] Chuyen trang thai -> CON HAN");
             }
             lastLicenseExpiredState = licenseExpired;
         }
@@ -924,7 +928,6 @@ public:
 
         if (!defineSource(serialData))
         {
-            // Serial.print("hihi");
             return;
         }
 
@@ -954,7 +957,7 @@ public:
             hasRecentValidPacket = false;
         }
 
-        if (millis() - lastStatusRequestTime >= 3500)
+        if (millis() - lastStatusRequestTime >= 5000)
         {
             bool statusOk = false;
             if (licenseExpired)
@@ -978,7 +981,7 @@ public:
     }
 
 private:
-    static const uint8_t MAX_STATUS_FAILS_BEFORE_RESCAN = 5;
+    static const uint8_t MAX_STATUS_FAILS_BEFORE_RESCAN = 2;
     static const uint8_t MAX_STATUS_FAILS_AT_9600_BEFORE_RESCAN = 2;
     static const uint32_t DEFAULT_EX_BAUD = 115200;
 
@@ -1010,7 +1013,7 @@ private:
 
     bool isSupportedBaudRate(uint32_t baudRate) const
     {
-        static const uint32_t baudCandidates[] = {115200, 57600, 38400, 19200, 9600};
+        static const uint32_t baudCandidates[] = {115200, 9600};
         for (size_t i = 0; i < (sizeof(baudCandidates) / sizeof(baudCandidates[0])); i++)
         {
             if (baudCandidates[i] == baudRate)
@@ -1113,7 +1116,7 @@ private:
 
     bool forceBrightnessWithBaudFallback(uint8_t brightnessValue = 0, const char *reason = "license-expired")
     {
-        static const uint32_t baudCandidates[] = {115200, 57600, 38400, 19200, 9600};
+        static const uint32_t baudCandidates[] = {115200, 9600};
 
         if (tryForceBrightnessAtBaud(preferredBaudRate, brightnessValue, reason))
         {
