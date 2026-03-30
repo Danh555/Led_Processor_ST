@@ -1,4 +1,4 @@
-#line 1 "D:\\LedProcesser\\LedPr_v2\\LedPr_v2\\include\\config.h"
+#line 1 "D:\\Alta\\LedPr_v2\\LedPr_v2\\include\\config.h"
 #include <Arduino.h> 
 #include "app_license.h"
 #ifndef CONFIG_H 

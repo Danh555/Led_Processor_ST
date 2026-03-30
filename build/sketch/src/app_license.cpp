@@ -1,4 +1,4 @@
-#line 1 "D:\\LedProcesser\\LedPr_v2\\LedPr_v2\\src\\app_license.cpp"
+#line 1 "D:\\Alta\\LedPr_v2\\LedPr_v2\\src\\app_license.cpp"
 #include "include/app_license.h"
 #include "include/config.h"
 #include "WiFi.h"

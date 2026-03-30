@@ -1,6 +1,6 @@
 {
-  "port": "COM49",
-  "configuration": "UploadSpeed=921600,CDCOnBoot=default,CPUFreq=160,FlashFreq=80,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,EraseFlash=none,JTAGAdapter=default,ZigbeeMode=default",
+  "port": "",
+  "configuration": "UploadSpeed=921600,CDCOnBoot=default,CPUFreq=160,FlashFreq=80,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,EraseFlash=none,JTAGAdapter=default",
   "output": "build",
   "board": "esp32:esp32:esp32c3",
   "programmer": "esptool",
@@ -17,6 +17,7 @@
       "parity": "none",
       "stopBits": "one"
     },
-    "profile_name": ""
+    "profile_name": "",
+    "port": ""
   }
 }

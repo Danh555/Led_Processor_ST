@@ -1,6 +1,6 @@
 #include <Arduino.h>
-#include "include/LedProcessor.h"
-#include "include/app_license.h"
+#include "LedProcessor.h"
+#include "app_license.h"
 LedProcessor ledProcessor(SERIAL_RS232, RS232_RX_PIN, RS232_TX_PIN); //Serial1 
 PacketHandler packetHandler(SERIAL); //Serial
 

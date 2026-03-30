@@ -1,8 +1,9 @@
 {
   "configurations": [
     {
-      "name": "Arduino",
+      "name": "windows-clang-x64",
       "includePath": [
+        "${workspaceFolder}/**",
         "C:\\Users\\Tuyet Nhung-RD\\Documents\\Arduino\\libraries/**",
         "D:\\LedProcesser\\LedPr_v2\\LedPr_v2/**",
         "C:\\Users\\Tuyet Nhung-RD\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esp32-arduino-libs\\idf-release_v5.4-858a988d-v1\\esp32c3\\include/**",
@@ -89,7 +90,8 @@
         "USBCON"
       ],
       "cStandard": "c17",
-      "cppStandard": "c++17"
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-clang-x64"
     }
   ],
   "version": 4

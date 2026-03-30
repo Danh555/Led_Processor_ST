@@ -1,4 +1,4 @@
-#include "include/config.h"
+#include "config.h"
 
 // bool allowTransmission = false;
 uint8_t licenseByte = 0x00;

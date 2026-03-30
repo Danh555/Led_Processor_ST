@@ -2,8 +2,8 @@
   "additionalFiles": "..\\..\\..,..\\..\\..,..\\..,..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..",
   "compiler.optimization_flags": "-Os",
   "customBuildProperties": "",
-  "fqbn": "esp32:esp32:esp32c3:UploadSpeed=921600,CDCOnBoot=default,CPUFreq=160,FlashFreq=80,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,EraseFlash=none,JTAGAdapter=default,ZigbeeMode=default",
-  "hardwareFolders": "C:\\Users\\Tuyet Nhung-RD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.1,C:\\Users\\Tuyet Nhung-RD\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.1",
-  "otherLibrariesFolders": "C:\\Users\\Tuyet Nhung-RD\\Documents\\Arduino\\libraries",
-  "sketchLocation": "D:\\LedProcesser\\LedPr_v2\\LedPr_v2"
+  "fqbn": "esp32:esp32:esp32c3:UploadSpeed=921600,CDCOnBoot=default,CPUFreq=160,FlashFreq=80,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,EraseFlash=none,JTAGAdapter=default",
+  "hardwareFolders": "C:\\Users\\LapTopDanh\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.17,C:\\Users\\LapTopDanh\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.17",
+  "otherLibrariesFolders": "C:\\Users\\LapTopDanh\\Downloads\\LVGL_Arduino2-20251120T124951Z-1-001\\libraries",
+  "sketchLocation": "D:\\Alta\\LedPr_v2\\LedPr_v2"
 }

@@ -1,6 +1,6 @@
-#include "include/app_license.h"
-#include "include/config.h"
-#include "WiFi.h"
+#include "app_license.h"
+#include "config.h"
+// #include <WiFi.h>
 #include <ArduinoJson.h>
 #include <Update.h>
 

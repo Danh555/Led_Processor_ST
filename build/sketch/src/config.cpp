@@ -1,4 +1,4 @@
-#line 1 "D:\\LedProcesser\\LedPr_v2\\LedPr_v2\\src\\config.cpp"
+#line 1 "D:\\Alta\\LedPr_v2\\LedPr_v2\\src\\config.cpp"
 #include "include/config.h"
 
 // bool allowTransmission = false;
